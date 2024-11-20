@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently exploring **Machine learning and MLOps**
 
-- 👩‍💻 Know me more <a href="https://www.linkedin.com/in/krishviramgama" style="text-decoration: none;">Portfolio</a>
+- 👩‍💻 Know me more <a href="https://www.linkedin.com/in/krishviramgama" style="text-decoration: none;">LinkedIn</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=krishviramgama0@gmail.com" style="text-decoration: none;">Email</a>
 
